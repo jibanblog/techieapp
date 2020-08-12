@@ -7,7 +7,7 @@ import axios from 'axios';
 
 const Status = () => {
 
-    const { basic } = useParams();
+    const { number } = useParams();
 
     const [num, setNum] = useState();
     const [name, setName] = useState();
@@ -18,7 +18,7 @@ const Status = () => {
     useEffect( () => {
 
         async function getDatas(){
-            const responseLink = await axios.get(`https://pokeapi.co/api/v2/pokemon/${basic}`);
+            const responseLink = await axios.get(`https://pokeapi.co/api/v2/pokemon/${number}`);
               
             setNum(responseLink.data.id);
             setName(responseLink.data.name);
