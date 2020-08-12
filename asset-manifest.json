@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/techieapp/static/css/main.1c264a47.chunk.css",
-    "main.js": "/techieapp/static/js/main.58b4ebbb.chunk.js",
-    "main.js.map": "/techieapp/static/js/main.58b4ebbb.chunk.js.map",
+    "main.js": "/techieapp/static/js/main.bf389124.chunk.js",
+    "main.js.map": "/techieapp/static/js/main.bf389124.chunk.js.map",
     "runtime-main.js": "/techieapp/static/js/runtime-main.6828241b.js",
     "runtime-main.js.map": "/techieapp/static/js/runtime-main.6828241b.js.map",
     "static/js/2.94ff7f93.chunk.js": "/techieapp/static/js/2.94ff7f93.chunk.js",
     "static/js/2.94ff7f93.chunk.js.map": "/techieapp/static/js/2.94ff7f93.chunk.js.map",
     "index.html": "/techieapp/index.html",
-    "precache-manifest.6accb497c62583e55b7c555924f85aa3.js": "/techieapp/precache-manifest.6accb497c62583e55b7c555924f85aa3.js",
+    "precache-manifest.f6deba178a5e9a0ec55949df9153cca1.js": "/techieapp/precache-manifest.f6deba178a5e9a0ec55949df9153cca1.js",
     "service-worker.js": "/techieapp/service-worker.js",
     "static/css/main.1c264a47.chunk.css.map": "/techieapp/static/css/main.1c264a47.chunk.css.map",
     "static/js/2.94ff7f93.chunk.js.LICENSE.txt": "/techieapp/static/js/2.94ff7f93.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6828241b.js",
     "static/js/2.94ff7f93.chunk.js",
     "static/css/main.1c264a47.chunk.css",
-    "static/js/main.58b4ebbb.chunk.js"
+    "static/js/main.bf389124.chunk.js"
   ]
 }
