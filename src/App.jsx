@@ -26,7 +26,7 @@ const App = () => {
     <Route  path='/status/:number' component={Status} />
     </Switch>
     
-    { location.pathname === '/techieapp/' ?   
+      
        <div className='main'> 
         
         
@@ -34,7 +34,7 @@ const App = () => {
    
         <Covidtable> </Covidtable>
             
-        </div> : null };
+        </div>
 
 
     
