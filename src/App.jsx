@@ -23,9 +23,9 @@ const App = () => {
     <Route exact path='/home' component={Home} />
     <Route exact path='/states' component={States} />
     <Route exact path='/status' component={Status} />
-    <Route  path='https://jibanblog.github.io/status/:number' component={Status} />
+    <Route  path='/status/:number' component={Status} />
     </Switch>
-    { location.pathname === 'https://jibanblog.github.io/techieapp/' || location.pathname === 'https://jibanblog.github.io/home' ?
+    
       <div className='main'> 
         
         
@@ -33,7 +33,7 @@ const App = () => {
    
         <Covidtable> </Covidtable>
             
-        </div> : null}
+        </div>
 
 
     

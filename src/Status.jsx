@@ -18,7 +18,7 @@ const Status = () => {
     useEffect( () => {
 
         async function getDatas(){
-            const responseLink = await axios.get(`https://pokeapi.co/api/v2/pokemon/${number}`);
+            const responseLink = await axios.get(`https://pokeapi.co/api/v2/pokemon/1`);
               
             setNum(responseLink.data.id);
             setName(responseLink.data.name);
