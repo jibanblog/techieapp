@@ -25,8 +25,8 @@ const App = () => {
     <Route exact path='/status' component={Status} />
     <Route exact path='/status/:basic' component={Status} />
     </Switch>
-    {location.pathname === '/'  ?
-     <div className='main'> 
+    { location.pathname === '/home' ?
+      <div className='main'> 
         
         
         <h1> Covid-19 cases from Aug-7 To Till Date </h1>
