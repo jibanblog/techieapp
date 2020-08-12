@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67a9b5d51dfa4a488a0fd42988f9f969",
+    "revision": "6613618786fe4c2cf0a49bd4a33ffdae",
     "url": "/techieapp/index.html"
   },
   {
-    "revision": "04804b0f8a4e755af1ba",
+    "revision": "d6f14d522e39095e5703",
     "url": "/techieapp/static/css/main.1c264a47.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/techieapp/static/js/2.94ff7f93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04804b0f8a4e755af1ba",
-    "url": "/techieapp/static/js/main.4f49f1cf.chunk.js"
+    "revision": "d6f14d522e39095e5703",
+    "url": "/techieapp/static/js/main.58b4ebbb.chunk.js"
   },
   {
     "revision": "b97d4b92c863b367594c",
