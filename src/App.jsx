@@ -25,7 +25,7 @@ const App = () => {
     <Route exact path='/status' component={Status} />
     <Route exact path='/status/:basic' component={Status} />
     </Switch>
-    {location.pathname === '/' || location.pathname === '/home' ?
+    {location.pathname === '/'  ?
      <div className='main'> 
         
         
