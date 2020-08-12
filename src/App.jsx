@@ -23,9 +23,9 @@ const App = () => {
     <Route exact path='/home' component={Home} />
     <Route exact path='/states' component={States} />
     <Route exact path='/status' component={Status} />
-    <Route exact path='/status/:basic' component={Status} />
+    <Route  path='/status/:basic' component={Status} />
     </Switch>
-    { location.pathname === '/home' ?
+    { location.pathname === '/' ?
       <div className='main'> 
         
         
